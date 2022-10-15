@@ -1,3 +1,3 @@
 # DSML Advance JULY Batch Git Project
 
-This file is changes from brnach A 
+This is the git version control showcase project
